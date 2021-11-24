@@ -1,0 +1,3 @@
+﻿  trpo5(task3).cpp
+C:\Users\Дима\source\repos\trpo5(task3)\trpo5(task3).cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  trpo5(task3).vcxproj -> C:\Users\Дима\source\repos\trpo5(task3)\Debug\trpo5(task3).exe
